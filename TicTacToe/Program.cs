@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace TicTacToe {
     class Program {
         static void Main(string[] args) {
+            string[] gamearray = new string[] { "", "" };
         }
     }
 }
